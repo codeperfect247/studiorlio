@@ -8,3 +8,13 @@ a {
   color: #00d1b2;
 }
 
+a:hover {
+  color: #00d1b2;
+}
+
+section{
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+.section-1 {
